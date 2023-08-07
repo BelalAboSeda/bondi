@@ -1,2 +1,4 @@
 # bondi
-bondi design ( bootstrap)
+bondi design 
+craeted with 
+Html&Css jS and Bootstrap
